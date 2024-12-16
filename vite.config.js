@@ -15,5 +15,8 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+  server: {
+    host: 'https://github.com/tyriksheyh4567.github.io'
+  },
   base: '/yaros-website/',
 })
