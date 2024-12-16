@@ -1,2 +1,0 @@
-# yaros-website
- my-website
